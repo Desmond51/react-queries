@@ -1,0 +1,25 @@
+{
+    "superheroes:":[
+        {
+            "id": 1,
+            "name": "JavaScript Course",
+            "alertEgo": "Desmond Teko"
+        },
+        {
+            "id": 2,
+            "name": "React Course",
+            "alertEgo": "Silas Magho"
+        },
+        {
+            "id": 3,
+            "name": "Node.js course",
+            "alertEgo": "Asonganyi Rouclec"
+        },
+        {
+            "id": 4,
+            "name": "React Native",
+            "alertEgo": "Gilbert Tima"
+        }
+
+    ]
+}
